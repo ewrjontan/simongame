@@ -1,12 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Orbitron');
 
+body{
+  background: radial-gradient(white, gray);
+}
+
 #game-container{
   position: relative;
   width: 350px;
   height: 350px;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   background-color: black;
   border-radius: 100%;
+  margin-top: 100px;
+  
 }
 
 .button{
