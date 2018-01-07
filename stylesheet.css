@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Orbitron');
 
 body{
-  background: radial-gradient(white, gray);
+  background: radial-gradient(circle, white, gray);
+  background-repeat: no-repeat;
 }
 
 #game-container{
