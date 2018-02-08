@@ -114,7 +114,7 @@ body{
   color: red;
   font-size: 1.25em;
   text-align: center;  
-  /*padding-top: 5px;*/
+  -webkit-padding-top: 5px;
   padding-top: -5px;
 }
 
